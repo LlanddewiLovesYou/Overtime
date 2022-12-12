@@ -5,7 +5,7 @@ Key requirment: Com-any needs documentation that salaried employees did or did n
 ## Models:
 
 - Post -> { date: date, rationale: text }
-- User -> Devise
+- ~~User -> Devise~~
 - AdminUser -> STI
 
 ## Feature:
